@@ -22,12 +22,12 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'Sakhi Jewels | Luxury Fashion Jewellery',
-  description: 'Discover exquisite luxury fashion jewellery, bridal sets, earrings, necklaces and statement pieces. Premium craftsmanship meets contemporary design at Sakhi Jewels.',
-  keywords: ['luxury jewellery', 'fashion jewellery', 'bridal sets', 'earrings', 'necklaces', 'bangles', 'designer jewellery', 'imitation jewellery', 'sakhi jewels'],
-  authors: [{ name: 'Sakhi Jewels' }],
-  creator: 'Sakhi Jewels',
-  publisher: 'Sakhi Jewels',
+  title: 'Sakhi Vellore | Luxury Fashion Jewellery',
+  description: 'Discover exquisite luxury fashion jewellery, bridal sets, earrings, necklaces and statement pieces. Premium craftsmanship meets contemporary design at Sakhi Vellore.',
+  keywords: ['luxury jewellery', 'fashion jewellery', 'bridal sets', 'earrings', 'necklaces', 'bangles', 'designer jewellery', 'imitation jewellery', 'sakhi vellore'],
+  authors: [{ name: 'Sakhi Vellore' }],
+  creator: 'Sakhi Vellore',
+  publisher: 'Sakhi Vellore',
   robots: 'index, follow',
   openGraph: {
     type: 'website',
@@ -71,7 +71,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <meta name="theme-color" content="#1a1a1a" />
       </head>
-      <body className={`${poppins.className} antialiased bg-gray-950`}>
+      <body className={`${poppins.className} antialiased bg-white`}>
         {children}
       </body>
     </html>

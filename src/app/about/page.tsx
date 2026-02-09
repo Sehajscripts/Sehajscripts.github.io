@@ -51,11 +51,11 @@ const AboutPage = () => {
                 </p>
                 <p>
                   Our journey started in 2020, when we noticed a gap in the market for high-quality, 
-                  trendy imitation jewellery that doesn't break the bank. We set out to bridge this gap, 
+                  trendy imitation jewellery that doesn&apos;t break the bank. We set out to bridge this gap, 
                   curating collections that blend traditional Indian artistry with contemporary design.
                 </p>
                 <p>
-                  Today, Sakhi Jewels is more than just a brand – it's a community of strong, beautiful 
+                  Today, Sakhi Jewels is more than just a brand – it&apos;s a community of strong, beautiful 
                   women who celebrate their individuality through our carefully crafted pieces.
                 </p>
               </div>
@@ -156,11 +156,11 @@ const AboutPage = () => {
               <div className="space-y-6 text-lg text-gray-600 leading-relaxed">
                 <p>
                   At Sakhi Jewels, our mission is to make luxury jewellery accessible to every woman 
-                  who deserves to feel special. We believe that elegance shouldn't come with a hefty 
+                  who deserves to feel special. We believe that elegance shouldn&apos;t come with a hefty 
                   price tag.
                 </p>
                 <p>
-                  We're committed to creating pieces that not only enhance your beauty but also 
+                  We&apos;re committed to creating pieces that not only enhance your beauty but also 
                   boost your confidence. Each design is thoughtfully crafted to ensure you stand out 
                   in every crowd and feel extraordinary on every occasion.
                 </p>
